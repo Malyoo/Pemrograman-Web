@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2em 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+section {
+    margin: 2em auto;
+    max-width: 800px;
+    padding: 1em;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #333;
+}
+
+.education {
+    margin-bottom: 1.5em;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #333;
+    color: #fff;
+}
+
+footer a {
+    color: #158bbe;
+    text-decoration: none;
+}
